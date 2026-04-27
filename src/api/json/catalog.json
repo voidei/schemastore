@@ -3,6 +3,17 @@
   "version": 1,
   "schemas": [
     {
+      "name": "revola.json",
+      "description": "Configuration file for Revola",
+      "fileMatch": [
+        ".revola.json",
+        ".revola.config.json",
+        "revola.json",
+        "revola.config.json"
+      ],
+      "url": "https://www.schemastore.org/revola.json"
+    },
+    {
       "name": "Hashgraph Online Skill Manifest",
       "description": "Manifest for Hashgraph Online Registry Broker skill packages",
       "fileMatch": [
