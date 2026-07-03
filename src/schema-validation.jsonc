@@ -539,6 +539,10 @@
     {
       "schema": "claude-code-settings.json",
       "strict": true
+    },
+    {
+      "schema": "claude-code-keybindings.json",
+      "strict": true
     }
   ],
   "catalogEntryNoLintNameOrDescription": [
