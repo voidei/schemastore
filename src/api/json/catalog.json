@@ -10560,6 +10560,21 @@
       }
     },
     {
+      "name": "index.toml (packwiz)",
+      "description": "The index file of the modpack, storing references to every file to be downloaded in the pack",
+      "url": "https://www.schemastore.org/packwiz-index.json"
+    },
+    {
+      "name": "mod.pw.toml (packwiz)",
+      "description": "A metadata file which references an external file from a URL",
+      "url": "https://www.schemastore.org/packwiz-mod.json"
+    },
+    {
+      "name": "pack.toml (packwiz)",
+      "description": "The main modpack file for a packwiz modpack",
+      "url": "https://www.schemastore.org/packwiz-pack.json"
+    },
+    {
       "name": "Slang Server Configuration",
       "description": "Configuration file for the slang-server SystemVerilog language server. Documentation: https://hudson-trading.github.io/slang-server",
       "fileMatch": ["**/.slang/server.json", "**/.slang/local/server.json"],
