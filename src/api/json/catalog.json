@@ -4977,6 +4977,11 @@
       "url": "https://www.schemastore.org/modelparams.json"
     },
     {
+      "name": "models CLI",
+      "description": "models CLI configuration file",
+      "url": "https://www.schemastore.org/modelsdev.json"
+    },
+    {
       "name": "monospace.yml",
       "description": "MonoSpace configuration file",
       "fileMatch": ["monospace.yml"],
