@@ -26,6 +26,7 @@
     "behat.json",
     "bitrise-step.json",
     "bitrise.json",
+    "bootstraprc.json",
     "bower.json",
     "bowerrc.json",
     "boyka-config.json",
@@ -1004,9 +1005,6 @@
     },
     "bitrise.json": {
       "externalSchema": ["bitrise-step.json"]
-    },
-    "bower.json": {
-      "externalSchema": ["base-04.json"]
     },
     "cargo-make.json": {
       "unknownKeywords": ["links"]
