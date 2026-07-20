@@ -147,7 +147,7 @@
     {
       "name": "Applicant Profile Protocol",
       "description": "Structured JSON format for professional profiles, resumes, and CVs with skills, experience, education, and certifications",
-      "fileMatch": ["*.app.json"],
+      "fileMatch": ["*.app-profile.json"],
       "url": "https://app-protocol.org/schema/app-1.0.json"
     },
     {
